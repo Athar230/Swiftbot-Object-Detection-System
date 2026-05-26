@@ -18,5 +18,5 @@
 - Hardware/software integration
 - Agile iterative testing
 
-## 4. My Contribution
+## My Contribution
 Designed and implemented the system architecture, sensor logic, and feedback system while troubleshooting hardware-software integration issues.
