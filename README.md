@@ -1,3 +1,6 @@
+# Swiftbot-Object-Detection-System
+
+ 
  # 1. Project Overview
  This project involved developing a real-time object detection system using Java and the SwiftBot API. The system used ultrasonic sensor input to detect nearby objects and trigger LED feedback responses.
 
