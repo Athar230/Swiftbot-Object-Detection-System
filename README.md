@@ -6,17 +6,17 @@
 
  # 2. Technologies Used
  Java
- SwiftBot API
- Raspberry Pi
- Maven
- OOP Principles
+ | SwiftBot API
+ | Raspberry Pi
+ | Maven
+ | OOP Principles
 
 # 3. Features
 Real-time object detection
-Sensor-driven LED feedback
-Modular Java class structure
-Hardware/software integration
-Agile iterative testing
+| Sensor-driven LED feedback
+| Modular Java class structure
+| Hardware/software integration
+| Agile iterative testing
 
 # 4. My Contribution
 Designed and implemented the system architecture, sensor logic, and feedback system while troubleshooting hardware-software integration issues.
